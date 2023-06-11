@@ -1,0 +1,983 @@
+icd_code,D
+K70,Liver disease
+K709,Liver disease
+K71,Liver disease
+K710,Liver disease
+K711,Liver disease
+K7110,Liver disease
+K7111,Liver disease
+K712,Liver disease
+K713,Liver disease
+K714,Liver disease
+K715,Liver disease
+K7150,Liver disease
+K7151,Liver disease
+K716,Liver disease
+K717,Liver disease
+K718,Liver disease
+K719,Liver disease
+K75,Liver disease
+K758,Liver disease
+K7589,Liver disease
+K759,Liver disease
+K769,Liver disease
+P7884,Liver disease
+C7B02,Liver disease
+G932,Hypertension
+H4005,Hypertension
+H40051,Hypertension
+H40052,Hypertension
+H40053,Hypertension
+H40059,Hypertension
+I10,Hypertension
+I15,Hypertension
+I150,Hypertension
+I151,Hypertension
+I152,Hypertension
+I158,Hypertension
+I159,Hypertension
+I270,Hypertension
+I272,Hypertension
+I2720,Hypertension
+I2721,Hypertension
+I2722,Hypertension
+I2723,Hypertension
+I2724,Hypertension
+I2729,Hypertension
+I973,Hypertension
+I873,Hypertension
+I8730,Hypertension
+I87301,Hypertension
+I87302,Hypertension
+I87303,Hypertension
+I87309,Hypertension
+I8731,Hypertension
+I87311,Hypertension
+I87312,Hypertension
+I87313,Hypertension
+I87319,Hypertension
+I8732,Hypertension
+I87321,Hypertension
+I87322,Hypertension
+I87323,Hypertension
+I87329,Hypertension
+I8733,Hypertension
+I87331,Hypertension
+I87332,Hypertension
+I87333,Hypertension
+I87339,Hypertension
+I8739,Hypertension
+I87391,Hypertension
+I87392,Hypertension
+I87393,Hypertension
+I87399,Hypertension
+K766,Hypertension
+O10,Hypertension
+O100,Hypertension
+O1001,Hypertension
+O10011,Hypertension
+O10012,Hypertension
+O10013,Hypertension
+O10019,Hypertension
+O1002,Hypertension
+O1003,Hypertension
+O104,Hypertension
+O1041,Hypertension
+O10411,Hypertension
+O10412,Hypertension
+O10413,Hypertension
+O10419,Hypertension
+O1042,Hypertension
+O1043,Hypertension
+O109,Hypertension
+O1091,Hypertension
+O10911,Hypertension
+O10912,Hypertension
+O10913,Hypertension
+O10919,Hypertension
+O1092,Hypertension
+O1093,Hypertension
+O11,Hypertension
+O111,Hypertension
+O112,Hypertension
+O113,Hypertension
+O114,Hypertension
+O115,Hypertension
+O119,Hypertension
+O12,Hypertension
+O13,Hypertension
+O131,Hypertension
+O132,Hypertension
+O133,Hypertension
+O134,Hypertension
+O135,Hypertension
+O139,Hypertension
+O16,Hypertension
+O161,Hypertension
+O162,Hypertension
+O163,Hypertension
+O164,Hypertension
+O165,Hypertension
+O169,Hypertension
+P292,Hypertension
+P2930,Hypertension
+R030,Hypertension
+V811,Hypertension
+E08,Diabetes
+E080,Diabetes
+E0800,Diabetes
+E0801,Diabetes
+E081,Diabetes
+E0810,Diabetes
+E0811,Diabetes
+E082,Diabetes
+E0821,Diabetes
+E0822,Diabetes
+E0829,Diabetes
+E083,Diabetes
+E0831,Diabetes
+E08311,Diabetes
+E08319,Diabetes
+E0832,Diabetes
+E08321,Diabetes
+E083211,Diabetes
+E083212,Diabetes
+E083213,Diabetes
+E0931,Diabetes
+E083219,Diabetes
+E08329,Diabetes
+E083291,Diabetes
+E083292,Diabetes
+E083293,Diabetes
+E083299,Diabetes
+E0833,Diabetes
+E08331,Diabetes
+E083311,Diabetes
+E083312,Diabetes
+E083313,Diabetes
+E083319,Diabetes
+E08339,Diabetes
+E083391,Diabetes
+E083392,Diabetes
+E083393,Diabetes
+E083399,Diabetes
+E0834,Diabetes
+E08341,Diabetes
+E083411,Diabetes
+E083412,Diabetes
+E083413,Diabetes
+E083419,Diabetes
+E08349,Diabetes
+E083491,Diabetes
+E083492,Diabetes
+E083493,Diabetes
+E083499,Diabetes
+E0835,Diabetes
+E08351,Diabetes
+E083511,Diabetes
+E083512,Diabetes
+E083513,Diabetes
+E083519,Diabetes
+E08352,Diabetes
+E083521,Diabetes
+E083522,Diabetes
+E083523,Diabetes
+E083529,Diabetes
+E08353,Diabetes
+E083531,Diabetes
+E083532,Diabetes
+E083533,Diabetes
+E083539,Diabetes
+E08354,Diabetes
+E083541,Diabetes
+E1022,Diabetes
+E083542,Diabetes
+E083543,Diabetes
+E083549,Diabetes
+E08355,Diabetes
+E083551,Diabetes
+E083552,Diabetes
+E083553,Diabetes
+E083559,Diabetes
+E08359,Diabetes
+E083591,Diabetes
+E083592,Diabetes
+E083593,Diabetes
+E083599,Diabetes
+E0836,Diabetes
+E0837,Diabetes
+E0837X1,Diabetes
+E0837X2,Diabetes
+E0837X3,Diabetes
+E0837X9,Diabetes
+E0839,Diabetes
+E084,Diabetes
+E0840,Diabetes
+E0841,Diabetes
+E0842,Diabetes
+E0843,Diabetes
+E0844,Diabetes
+E0849,Diabetes
+E085,Diabetes
+E0851,Diabetes
+E0852,Diabetes
+E0859,Diabetes
+E086,Diabetes
+E0861,Diabetes
+E08610,Diabetes
+E08618,Diabetes
+E0862,Diabetes
+E08620,Diabetes
+E08621,Diabetes
+E08622,Diabetes
+E08628,Diabetes
+E0863,Diabetes
+E08630,Diabetes
+E08638,Diabetes
+E0864,Diabetes
+E08641,Diabetes
+E08649,Diabetes
+E0865,Diabetes
+E0869,Diabetes
+E088,Diabetes
+E089,Diabetes
+E09,Diabetes
+E090,Diabetes
+E0900,Diabetes
+E0901,Diabetes
+E091,Diabetes
+E0910,Diabetes
+E0911,Diabetes
+E092,Diabetes
+E0921,Diabetes
+E0922,Diabetes
+E0929,Diabetes
+E093,Diabetes
+E09311,Diabetes
+E09319,Diabetes
+E0932,Diabetes
+E09321,Diabetes
+E093211,Diabetes
+E093212,Diabetes
+E093213,Diabetes
+E093219,Diabetes
+E09329,Diabetes
+E093291,Diabetes
+E093292,Diabetes
+E093293,Diabetes
+E093299,Diabetes
+E0933,Diabetes
+E09331,Diabetes
+E093311,Diabetes
+E093312,Diabetes
+E093313,Diabetes
+E093319,Diabetes
+E09339,Diabetes
+E093391,Diabetes
+E093392,Diabetes
+E093393,Diabetes
+E093399,Diabetes
+E0934,Diabetes
+E09341,Diabetes
+E093411,Diabetes
+E093412,Diabetes
+E093413,Diabetes
+E093419,Diabetes
+E09349,Diabetes
+E093491,Diabetes
+E093492,Diabetes
+E093493,Diabetes
+E093499,Diabetes
+E0935,Diabetes
+E09351,Diabetes
+E093511,Diabetes
+E093512,Diabetes
+E093513,Diabetes
+E093519,Diabetes
+E09352,Diabetes
+E093521,Diabetes
+E093522,Diabetes
+E093523,Diabetes
+E093529,Diabetes
+E09353,Diabetes
+E093531,Diabetes
+E093532,Diabetes
+E093533,Diabetes
+E093539,Diabetes
+E09354,Diabetes
+E093541,Diabetes
+E093542,Diabetes
+E093543,Diabetes
+E093549,Diabetes
+E09355,Diabetes
+E093551,Diabetes
+E093552,Diabetes
+E093553,Diabetes
+E093559,Diabetes
+E09359,Diabetes
+E093591,Diabetes
+E093592,Diabetes
+E093593,Diabetes
+E093599,Diabetes
+E0936,Diabetes
+E0937,Diabetes
+E0937X1,Diabetes
+E0937X2,Diabetes
+E0937X3,Diabetes
+E0937X9,Diabetes
+E0939,Diabetes
+E094,Diabetes
+E0940,Diabetes
+E0941,Diabetes
+E0942,Diabetes
+E0943,Diabetes
+E0944,Diabetes
+E0949,Diabetes
+E095,Diabetes
+E0951,Diabetes
+E0952,Diabetes
+E0959,Diabetes
+E096,Diabetes
+E0961,Diabetes
+E09610,Diabetes
+E09618,Diabetes
+E0962,Diabetes
+E09620,Diabetes
+E09621,Diabetes
+E09622,Diabetes
+E09628,Diabetes
+E0963,Diabetes
+E09630,Diabetes
+E09638,Diabetes
+E0964,Diabetes
+E09641,Diabetes
+E09649,Diabetes
+E0965,Diabetes
+E0969,Diabetes
+E098,Diabetes
+E099,Diabetes
+E10,Diabetes
+E101,Diabetes
+E1010,Diabetes
+E1011,Diabetes
+E102,Diabetes
+E1021,Diabetes
+E1029,Diabetes
+E103,Diabetes
+E1031,Diabetes
+E10311,Diabetes
+E10319,Diabetes
+E1032,Diabetes
+E10321,Diabetes
+E103211,Diabetes
+E103212,Diabetes
+E103213,Diabetes
+E103219,Diabetes
+E10329,Diabetes
+E103291,Diabetes
+E103292,Diabetes
+E103293,Diabetes
+E103299,Diabetes
+E1033,Diabetes
+E10331,Diabetes
+E103311,Diabetes
+E103312,Diabetes
+E103313,Diabetes
+E103319,Diabetes
+E10339,Diabetes
+E103391,Diabetes
+E103392,Diabetes
+E103393,Diabetes
+E103399,Diabetes
+E1034,Diabetes
+E10341,Diabetes
+E103411,Diabetes
+E103412,Diabetes
+E103413,Diabetes
+E103419,Diabetes
+E10349,Diabetes
+E103491,Diabetes
+E103492,Diabetes
+E103493,Diabetes
+E103499,Diabetes
+E1035,Diabetes
+E10351,Diabetes
+E103511,Diabetes
+E103512,Diabetes
+E103513,Diabetes
+E103519,Diabetes
+E10352,Diabetes
+E103521,Diabetes
+E103522,Diabetes
+E103523,Diabetes
+E103529,Diabetes
+E10353,Diabetes
+E103531,Diabetes
+E103532,Diabetes
+E103533,Diabetes
+E103539,Diabetes
+E10354,Diabetes
+E103541,Diabetes
+E103542,Diabetes
+E103543,Diabetes
+E103549,Diabetes
+E10355,Diabetes
+E103551,Diabetes
+E103552,Diabetes
+E103553,Diabetes
+E103559,Diabetes
+E10359,Diabetes
+E103591,Diabetes
+E103592,Diabetes
+E103593,Diabetes
+E103599,Diabetes
+E1036,Diabetes
+E1037,Diabetes
+E1037X1,Diabetes
+E1037X2,Diabetes
+E1037X3,Diabetes
+E1037X9,Diabetes
+E1039,Diabetes
+E104,Diabetes
+E1040,Diabetes
+E1041,Diabetes
+E1042,Diabetes
+E1043,Diabetes
+E1044,Diabetes
+E1049,Diabetes
+E105,Diabetes
+E1051,Diabetes
+E1052,Diabetes
+E1059,Diabetes
+E106,Diabetes
+E1061,Diabetes
+E10610,Diabetes
+E10618,Diabetes
+E1062,Diabetes
+E10620,Diabetes
+E10621,Diabetes
+E10622,Diabetes
+E10628,Diabetes
+E1063,Diabetes
+E10630,Diabetes
+E10638,Diabetes
+E1064,Diabetes
+E10641,Diabetes
+E10649,Diabetes
+E1065,Diabetes
+E1069,Diabetes
+E108,Diabetes
+E109,Diabetes
+E11,Diabetes
+E110,Diabetes
+E1100,Diabetes
+E1101,Diabetes
+E111,Diabetes
+E1110,Diabetes
+E1111,Diabetes
+E112,Diabetes
+E1121,Diabetes
+E1122,Diabetes
+E1129,Diabetes
+E113,Diabetes
+E1131,Diabetes
+E11311,Diabetes
+E11319,Diabetes
+E1132,Diabetes
+E11321,Diabetes
+E113211,Diabetes
+E113212,Diabetes
+E113213,Diabetes
+E113219,Diabetes
+E11329,Diabetes
+E113291,Diabetes
+E113292,Diabetes
+E113293,Diabetes
+E113299,Diabetes
+E1133,Diabetes
+E11331,Diabetes
+E113311,Diabetes
+E113312,Diabetes
+E113313,Diabetes
+E113319,Diabetes
+E11339,Diabetes
+E113391,Diabetes
+E113392,Diabetes
+E113393,Diabetes
+E113399,Diabetes
+E1134,Diabetes
+E11341,Diabetes
+E113411,Diabetes
+E113412,Diabetes
+E113413,Diabetes
+E113419,Diabetes
+E11349,Diabetes
+E113491,Diabetes
+E113492,Diabetes
+E113493,Diabetes
+E113499,Diabetes
+E1135,Diabetes
+E11351,Diabetes
+E113511,Diabetes
+E113512,Diabetes
+E113513,Diabetes
+E113519,Diabetes
+E11352,Diabetes
+E113521,Diabetes
+E113522,Diabetes
+E113523,Diabetes
+E113529,Diabetes
+E11353,Diabetes
+E113531,Diabetes
+E113532,Diabetes
+E113533,Diabetes
+E113539,Diabetes
+E11354,Diabetes
+E113541,Diabetes
+E113542,Diabetes
+E113543,Diabetes
+E113549,Diabetes
+E11355,Diabetes
+E113551,Diabetes
+E113552,Diabetes
+E113553,Diabetes
+E113559,Diabetes
+E11359,Diabetes
+E113591,Diabetes
+E113592,Diabetes
+E113593,Diabetes
+E113599,Diabetes
+E1136,Diabetes
+E1137,Diabetes
+E1137X1,Diabetes
+E1137X2,Diabetes
+E1137X3,Diabetes
+E1137X9,Diabetes
+E1139,Diabetes
+E114,Diabetes
+E1140,Diabetes
+E1141,Diabetes
+E1142,Diabetes
+E1143,Diabetes
+E1144,Diabetes
+E1149,Diabetes
+E115,Diabetes
+E1151,Diabetes
+E1152,Diabetes
+E1159,Diabetes
+E116,Diabetes
+E1161,Diabetes
+E11610,Diabetes
+E11618,Diabetes
+E1162,Diabetes
+E11620,Diabetes
+E11621,Diabetes
+E11622,Diabetes
+E11628,Diabetes
+E1163,Diabetes
+E11630,Diabetes
+E11638,Diabetes
+E1164,Diabetes
+E11641,Diabetes
+E11649,Diabetes
+E1165,Diabetes
+E1169,Diabetes
+E118,Diabetes
+E119,Diabetes
+E13,Diabetes
+E130,Diabetes
+E1300,Diabetes
+E1301,Diabetes
+E131,Diabetes
+E1310,Diabetes
+E1311,Diabetes
+E132,Diabetes
+E1321,Diabetes
+E1322,Diabetes
+E1329,Diabetes
+E133,Diabetes
+E1331,Diabetes
+E13311,Diabetes
+E13319,Diabetes
+E1332,Diabetes
+E13321,Diabetes
+E133211,Diabetes
+E133212,Diabetes
+E133213,Diabetes
+E133219,Diabetes
+E13329,Diabetes
+E133291,Diabetes
+E133292,Diabetes
+E133293,Diabetes
+E133299,Diabetes
+E1333,Diabetes
+E13331,Diabetes
+E133311,Diabetes
+E133312,Diabetes
+E133313,Diabetes
+E133319,Diabetes
+E13339,Diabetes
+E133391,Diabetes
+E133392,Diabetes
+E133393,Diabetes
+E133399,Diabetes
+E1334,Diabetes
+E13341,Diabetes
+E133411,Diabetes
+E133412,Diabetes
+E133413,Diabetes
+E133419,Diabetes
+E13349,Diabetes
+E133491,Diabetes
+E133492,Diabetes
+E133493,Diabetes
+E133499,Diabetes
+E1335,Diabetes
+E13351,Diabetes
+E133511,Diabetes
+E133512,Diabetes
+E133513,Diabetes
+E133519,Diabetes
+E13352,Diabetes
+E133521,Diabetes
+E133522,Diabetes
+E133523,Diabetes
+E133529,Diabetes
+E13353,Diabetes
+E133531,Diabetes
+E133532,Diabetes
+E133533,Diabetes
+E133539,Diabetes
+E13354,Diabetes
+E133541,Diabetes
+E133542,Diabetes
+E133543,Diabetes
+E133549,Diabetes
+E13355,Diabetes
+E133551,Diabetes
+E133552,Diabetes
+E133553,Diabetes
+E133559,Diabetes
+E13359,Diabetes
+E133591,Diabetes
+E133592,Diabetes
+E133593,Diabetes
+E133599,Diabetes
+E1336,Diabetes
+E1337,Diabetes
+E1337X1,Diabetes
+E1337X2,Diabetes
+E1337X3,Diabetes
+E1337X9,Diabetes
+E1339,Diabetes
+E134,Diabetes
+E1340,Diabetes
+E1341,Diabetes
+E1342,Diabetes
+E1343,Diabetes
+E1344,Diabetes
+E1349,Diabetes
+E135,Diabetes
+E1351,Diabetes
+E1352,Diabetes
+E1359,Diabetes
+E136,Diabetes
+E1361,Diabetes
+E13610,Diabetes
+E13618,Diabetes
+E1362,Diabetes
+E13620,Diabetes
+E13621,Diabetes
+E13622,Diabetes
+E13628,Diabetes
+E1363,Diabetes
+E13630,Diabetes
+E13638,Diabetes
+E1364,Diabetes
+E13641,Diabetes
+E13649,Diabetes
+E1365,Diabetes
+E1369,Diabetes
+E138,Diabetes
+E139,Diabetes
+E232,Diabetes
+N251,Diabetes
+O24,Diabetes
+O240,Diabetes
+O2401,Diabetes
+O24011,Diabetes
+O24012,Diabetes
+O24013,Diabetes
+O24019,Diabetes
+O2402,Diabetes
+O2403,Diabetes
+O241,Diabetes
+O2411,Diabetes
+O24111,Diabetes
+O24112,Diabetes
+O24113,Diabetes
+O24119,Diabetes
+O2412,Diabetes
+O2413,Diabetes
+O243,Diabetes
+O2431,Diabetes
+O24311,Diabetes
+O24312,Diabetes
+O24313,Diabetes
+O24319,Diabetes
+O2432,Diabetes
+O2433,Diabetes
+O244,Diabetes
+O2441,Diabetes
+O24410,Diabetes
+O24414,Diabetes
+O24415,Diabetes
+O24419,Diabetes
+O2442,Diabetes
+O24420,Diabetes
+O24424,Diabetes
+O24425,Diabetes
+O24429,Diabetes
+O2443,Diabetes
+O24430,Diabetes
+O24434,Diabetes
+O24435,Diabetes
+O24439,Diabetes
+O248,Diabetes
+O2481,Diabetes
+O24811,Diabetes
+O24812,Diabetes
+O24813,Diabetes
+O24819,Diabetes
+O2482,Diabetes
+O2483,Diabetes
+O249,Diabetes
+O2491,Diabetes
+O24911,Diabetes
+O24912,Diabetes
+O24913,Diabetes
+O24919,Diabetes
+O2492,Diabetes
+O2493,Diabetes
+P700,Diabetes
+P702,Diabetes
+R7303,Diabetes
+V1221,Diabetes
+V180,Diabetes
+V771,Diabetes
+Z131,Diabetes
+Z833,Diabetes
+Z8632,Diabetes
+4280,Congestive heart failure
+G46,Cerebrovascular disease
+G468,Cerebrovascular disease
+I67,Cerebrovascular disease
+I678,Cerebrovascular disease
+I6785,Cerebrovascular disease
+I67858,Cerebrovascular disease
+I6789,Cerebrovascular disease
+I679,Cerebrovascular disease
+I69,Cerebrovascular disease
+I698,Cerebrovascular disease
+I6980,Cerebrovascular disease
+I6981,Cerebrovascular disease
+I69810,Cerebrovascular disease
+I69811,Cerebrovascular disease
+I69812,Cerebrovascular disease
+I69813,Cerebrovascular disease
+I69814,Cerebrovascular disease
+I69815,Cerebrovascular disease
+I69818,Cerebrovascular disease
+I69819,Cerebrovascular disease
+I6982,Cerebrovascular disease
+I69820,Cerebrovascular disease
+I69821,Cerebrovascular disease
+I69822,Cerebrovascular disease
+I69823,Cerebrovascular disease
+I69828,Cerebrovascular disease
+I6983,Cerebrovascular disease
+I69831,Cerebrovascular disease
+I69832,Cerebrovascular disease
+I69833,Cerebrovascular disease
+I69834,Cerebrovascular disease
+I69839,Cerebrovascular disease
+I6984,Cerebrovascular disease
+I69841,Cerebrovascular disease
+I69842,Cerebrovascular disease
+I69843,Cerebrovascular disease
+I69844,Cerebrovascular disease
+I69849,Cerebrovascular disease
+I6985,Cerebrovascular disease
+I69851,Cerebrovascular disease
+I69852,Cerebrovascular disease
+I69853,Cerebrovascular disease
+I69854,Cerebrovascular disease
+I69859,Cerebrovascular disease
+I6986,Cerebrovascular disease
+I69861,Cerebrovascular disease
+I69862,Cerebrovascular disease
+I69863,Cerebrovascular disease
+I69864,Cerebrovascular disease
+I69865,Cerebrovascular disease
+I69869,Cerebrovascular disease
+I6989,Cerebrovascular disease
+I69890,Cerebrovascular disease
+I69891,Cerebrovascular disease
+I69892,Cerebrovascular disease
+I69893,Cerebrovascular disease
+I69898,Cerebrovascular disease
+I699,Cerebrovascular disease
+I6990,Cerebrovascular disease
+I6991,Cerebrovascular disease
+I69910,Cerebrovascular disease
+I69911,Cerebrovascular disease
+I69912,Cerebrovascular disease
+I69913,Cerebrovascular disease
+I69914,Cerebrovascular disease
+I69915,Cerebrovascular disease
+I69918,Cerebrovascular disease
+I69919,Cerebrovascular disease
+I6992,Cerebrovascular disease
+I69920,Cerebrovascular disease
+I69921,Cerebrovascular disease
+I69922,Cerebrovascular disease
+I69923,Cerebrovascular disease
+I69928,Cerebrovascular disease
+I6993,Cerebrovascular disease
+I69931,Cerebrovascular disease
+I69932,Cerebrovascular disease
+I69933,Cerebrovascular disease
+I69934,Cerebrovascular disease
+I69939,Cerebrovascular disease
+I6994,Cerebrovascular disease
+I69941,Cerebrovascular disease
+I69942,Cerebrovascular disease
+I69943,Cerebrovascular disease
+I69944,Cerebrovascular disease
+I69949,Cerebrovascular disease
+I6995,Cerebrovascular disease
+I69951,Cerebrovascular disease
+I69952,Cerebrovascular disease
+I69953,Cerebrovascular disease
+I69954,Cerebrovascular disease
+I69959,Cerebrovascular disease
+I6996,Cerebrovascular disease
+I69961,Cerebrovascular disease
+I69962,Cerebrovascular disease
+I69963,Cerebrovascular disease
+I69964,Cerebrovascular disease
+I69965,Cerebrovascular disease
+I69969,Cerebrovascular disease
+I6999,Cerebrovascular disease
+I69990,Cerebrovascular disease
+I69991,Cerebrovascular disease
+I69992,Cerebrovascular disease
+I69993,Cerebrovascular disease
+I69998,Cerebrovascular disease
+C49A,Tumor
+C49A0,Tumor
+C49A1,Tumor
+C49A2,Tumor
+C49A3,Tumor
+C49A4,Tumor
+C49A5,Tumor
+C49A9,Tumor
+C7A,Tumor
+C7A0,Tumor
+C7A00,Tumor
+C7A01,Tumor
+C7A010,Tumor
+C7A011,Tumor
+C7A012,Tumor
+C7A019,Tumor
+C7A02,Tumor
+C7A020,Tumor
+C7A021,Tumor
+C7A022,Tumor
+C7A023,Tumor
+C7A024,Tumor
+C7A025,Tumor
+C7A026,Tumor
+C7A029,Tumor
+C7A09,Tumor
+C7A090,Tumor
+C7A091,Tumor
+C7A092,Tumor
+C7A093,Tumor
+C7A094,Tumor
+C7A095,Tumor
+C7A096,Tumor
+C7A098,Tumor
+C7A1,Tumor
+C7A8,Tumor
+C7B,Tumor
+C7B0,Tumor
+C7B00,Tumor
+C7B01,Tumor
+C7B02,Tumor
+C7B03,Tumor
+C7B04,Tumor
+C7B09,Tumor
+C7B8,Tumor
+D3A,Tumor
+D3A0,Tumor
+D3A00,Tumor
+D3A01,Tumor
+D3A010,Tumor
+D3A011,Tumor
+D3A012,Tumor
+D3A019,Tumor
+D3A02,Tumor
+D3A020,Tumor
+D3A021,Tumor
+D3A022,Tumor
+D3A023,Tumor
+D3A024,Tumor
+D3A025,Tumor
+D3A026,Tumor
+D3A029,Tumor
+D3A09,Tumor
+D3A090,Tumor
+D3A091,Tumor
+D3A092,Tumor
+D3A093,Tumor
+D3A094,Tumor
+D3A095,Tumor
+D3A096,Tumor
+D3A098,Tumor
+D3A8,Tumor
+E883,Tumor
+O341,Tumor
+O3410,Tumor
+O3411,Tumor
+O3412,Tumor
+O3413,Tumor
+R97,Tumor
+R978,Tumor
+V1091,Tumor
+Z85020,Tumor
+Z85030,Tumor
+Z85040,Tumor
+Z85060,Tumor
+Z85110,Tumor
+Z85230,Tumor
+Z85520,Tumor
+Z86012,Tumor
+E082,Diabetes mellitus due to underlying condition with kidney complications
+E0822,Diabetes mellitus due to underlying condition with diabetic chronic kidney disease
+E0829,Diabetes mellitus due to underlying condition with other diabetic kidney complication
+E1022,Type 1 diabetes mellitus with diabetic chronic kidney disease
+E092,Drug or chemical induced diabetes mellitus with kidney complications
+E0922,Drug or chemical induced diabetes mellitus with diabetic chronic kidney disease
+E0929,Drug or chemical induced diabetes mellitus with other diabetic kidney complication
+E102,Type 1 diabetes mellitus with kidney complications
+E1029,Type 1 diabetes mellitus with other diabetic kidney complication
+E112,Type 2 diabetes mellitus with kidney complications
+E1122,Type 2 diabetes mellitus with diabetic chronic kidney disease
+E1129,Type 2 diabetes mellitus with other diabetic kidney complication
+E132,Other specified diabetes mellitus with kidney complications
+E1322,Other specified diabetes mellitus with diabetic chronic kidney disease
+E1329,Other specified diabetes mellitus with other diabetic kidney complication
+C7A093,Malignant carcinoid tumor of the kidney
+D3A093,Benign carcinoid tumor of the kidney
+Z85520,Personal history of malignant carcinoid tumor of kidney
